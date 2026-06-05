@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Найди пару", "Найди пару\Найди пару.csproj", "{CA022026-6520-495F-87B3-33F837EB0E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA022026-6520-495F-87B3-33F837EB0E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA022026-6520-495F-87B3-33F837EB0E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA022026-6520-495F-87B3-33F837EB0E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA022026-6520-495F-87B3-33F837EB0E52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51AC3F9D-C8B5-412C-BA7C-39EE7323105D}
+	EndGlobalSection
+EndGlobal
